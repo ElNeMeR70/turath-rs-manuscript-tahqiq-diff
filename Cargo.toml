@@ -1,0 +1,10 @@
+[package]
+name = "turath-rs-manuscript-tahqiq-diff"
+version = "1.0.0"
+edition = "2021"
+description = "Islamic Manuscript Collation (Muqabalah) & Critical Apparatus Generator"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "turath_rs_manuscript_tahqiq_diff"
+path = "main.rs"
